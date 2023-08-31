@@ -1,3 +1,4 @@
 Hola mundo
-Estoy usando bash
 En el minor AD
+Estamos aprendiendo
+A utilizar Git
